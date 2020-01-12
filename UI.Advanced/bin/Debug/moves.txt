@@ -1,0 +1,3 @@
+﻿r,m,r,r
+r,r,m,m,m,m,r,r,r,m,m,m
+r,m,m,r,m,
